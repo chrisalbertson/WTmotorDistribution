@@ -1,4 +1,4 @@
-# WTmotorDistribution -- Wide Thumper chises motoer power and encoder distriution board.
+# WTmotorDistribution -- Wide Thumper chassis motor power and encoder distriution board.
 
 This PCB is very simple.  It is basically a termal block for connecting wires.
 But there are six moters with large size wires and this PCB reduces the bulk of wires that must
