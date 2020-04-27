@@ -6,6 +6,7 @@ to lead from the sub chass up to the top plate.
 
 There is a 3D printable plastic enclosure for this PCB. 
 The plastic protects the connections and prevents shorts
+Look at it or download here: https://a360.co/3aERoY5
 
 ![PCB Image](PowerDistribution.png)
 
